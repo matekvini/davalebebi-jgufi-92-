@@ -1,4 +1,3 @@
-
 #2  
 
 # კომენტარი არის კოდის ნაწილი რომელსაც პროგრამა აიგნორებს და არ უშვებს როცა კითხულობს. 
@@ -51,6 +50,3 @@ second_name = "random"
 first_name = "Lika"
 second_name = "Giorgi"
 print (first_name)
-
-
-

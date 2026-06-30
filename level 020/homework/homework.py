@@ -35,4 +35,3 @@ name1 = "giorgi"
 name2 = "NINO"
 print(name1.upper())  
 print(name2.lower())  
-

@@ -1,0 +1,14 @@
+button {
+  color: white;
+  background-color: black;
+}
+
+.btn-group {
+  color: black;
+  background-color: yellow;
+}
+
+#single-btn {
+  color: white;
+  background-color: red;
+}

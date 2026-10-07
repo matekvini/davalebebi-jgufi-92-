@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+    color: #333333;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    color: #8b0000;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+a:link {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+a:active {
+    color: orange;
+}
+
+
+ul {
+  display: inline-block;
+  text-align: left;
+}

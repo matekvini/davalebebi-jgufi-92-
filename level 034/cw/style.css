@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
+
+.custom-text {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #0080ff;
+}
+
+.custom-link:link {
+    color: #0080ff;
+    text-decoration: none;
+}
+
+.custom-link:visited {
+    color: #8e44ad;
+}
+
+.custom-link:hover {
+    color: #e74c3c;
+    text-decoration: underline;
+}
+
+.custom-link:active {
+    color: #2ecc71;
+}
+
+.btn {
+    background-color: #0080ff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+}
+
+.btn:hover {
+    background-color: #0059b3;
+}
+
+.btn:active {
+    background-color: #003d80;
+}

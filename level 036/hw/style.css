@@ -1,0 +1,54 @@
+table {
+    border-collapse: collapse;
+    width: 500px;
+    margin: 40px auto;
+}
+
+th,
+td {
+    padding: 12px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    border: 2px solid white;
+}
+
+.c-lime {
+    background-color: #76ff03;
+    color: black;
+}
+
+.c-red {
+    background-color: #d81b60;
+    color: white;
+}
+
+.c-brown {
+    background-color: #b8860b;
+    color: white;
+}
+
+.c-sage {
+    background-color: #8fbc8f;
+    color: black;
+}
+
+.c-cyan {
+    background-color: #00bfff;
+    color: black;
+}
+
+.c-purple {
+    background-color: #8b008b;
+    color: white;
+}
+
+.c-yellow {
+    background-color: #ffff99;
+    color: black;
+}
+
+.c-navy {
+    background-color: #483d8b;
+    color: white;
+}
